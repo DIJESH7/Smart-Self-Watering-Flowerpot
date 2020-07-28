@@ -1,0 +1,3 @@
+# Smart-Self-Watering-Flowerpot
+In this project I built a device to monitor the moisture of the soil in a flower pot. In this flower pot we set up a moisture sensor which checks if the soil needs watering. If the soil need watering and the time of the day lies in the watering period then water is pumped out of a reservoir. In this project the water level of the reservoir is also checked and if the water is low, we have set up a speaker with a unique tone which will alert us. We also monitor the light levels and the battery level of the design. 
+The code for this project is based on Code Composer Studio. CCS 10.0.0 was used to develop the code. It should be used to run the program for the device.
